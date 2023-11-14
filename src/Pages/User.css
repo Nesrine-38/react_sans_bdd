@@ -1,0 +1,35 @@
+/*userdetails*/
+.Userdetail{
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+    font-size: x-large;
+    color: brown;
+   text-align: center;
+}
+.infogen{
+    color: #3498db;
+}
+.info{
+    margin-top: 10px;
+    font-weight: bolder;
+    color: #3498db;
+}
+.poss{
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+    color: brown;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+/*adduser*/
+form{
+    padding-top: 40px;
+}
+.form-label{
+    font-weight: bold;
+    color: #3498db;
+}
+.form-control{
+    border-color: brown;
+}

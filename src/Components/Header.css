@@ -1,0 +1,22 @@
+.logo{
+    display: flex;
+    align-items: center;
+}
+.titre{
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+    color: brown;
+    text-align:center;
+    margin-top:20px;
+    margin-left: 18em;
+}
+.bg{
+    border: 1px solid white;
+    background-color: cornflowerblue;
+}
+
+.text{
+    color: white;
+    font-size: 14px;
+    padding: 2px;
+}
